@@ -1,0 +1,14 @@
+{  
+    "server": "rasmusserver.database.windows.net", 
+    "authentication": {
+        "type": "default",
+        "options": {
+            "userName": "Rasmus", 
+            "password": "Underhyler123" 
+        }
+    },
+    "options": {
+        "encrypt": true,
+        "database": "DatingDB"
+    }
+}
